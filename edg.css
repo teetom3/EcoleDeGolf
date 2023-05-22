@@ -150,14 +150,16 @@ li {
 
     .container {
         margin-top: 20px;
+        height : 20%
     }
 
     .texte1 {
-        font-size: 1.5rem;
+        font-size: 0.5em;
     }
 
     .btncontact {
         margin: 10px;
+        
     }
 
     .menu {
