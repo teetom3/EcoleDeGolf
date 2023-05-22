@@ -186,3 +186,22 @@ li {
         grid-template-columns: 1fr;
     }
 }
+
+ .container {
+        padding: 0 10px;
+    }
+
+    .btncontact {
+        margin: 5px;
+    }
+}
+Dans cet exemple, les styles à l'intérieur de la media query seront appliqués lorsque la largeur de l'écran est inférieure ou égale à 768 pixels. Vous pouvez ajuster cette valeur selon vos besoins.
+
+J'espère que ces modifications vous aideront à rendre votre site plus responsive pour les appareils mobiles !
+
+
+
+
+
+
+
